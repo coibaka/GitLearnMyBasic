@@ -1,1 +1,21 @@
-<mxfile host="1lptjdrm5palgf9m4p27eo6u6hgrt3qcs8492u31qteqon9fnc5b" modified="2023-09-10T09:54:37.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.82.0 Chrome/114.0.5735.289 Electron/25.8.0 Safari/537.36" version="12.2.4" etag="GTFEnDYZsQwReAP7Fp69"><diagram id="TwFclFMJ9xaS21A_0iCj">jZNLc4IwEIB/DXcgWPVYqW0vPXnoOU1WkjGwTIyC/fVdTMJjHGd6YZZv348krKz7D8tb9YUSTJKnsk/YW5LnRVbQdwA3D9h27UFltfQom8BB/0KAaaAXLeG8MHSIxul2CQU2DQi3YNxa7JZmRzTLrC2v4AEcBDeP9FtLpzzd5OuJf4KuVMycvWy9pubROHRyVlxiN0Nsn7DSIjov1X0JZphdnIv3e3+iHQuz0Lj/OOTe4crNJfRWxsrcLbbroKdgO+VqQyAj8ewsnqBEg/Zuwn42q2KVkuaojZnx40aAEMS50VVDTFBhQMrdFazTNNLXoKi1lEPCXae0g0PLxZC9o/shZvHSSBhqHnKEmikA9E/7zsZp0hUC1uDsjUyCQ56GNsMFjgvppn0WAanZKqMZDxdUjZGnIZMQ5hx/p33edbNHwfZ/</diagram></mxfile>
+<mxfile host="Electron" modified="2023-09-10T09:57:00.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="vXecKH1CPKY7HWy0Zk1P" version="21.6.5" type="device" pages="2">
+  <diagram id="TwFclFMJ9xaS21A_0iCj" name="Follow">
+    <mxGraphModel dx="895" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="C0" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UJpn6REm9d9eCFby9hY3" name="Trang-2">
+    <mxGraphModel dx="895" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
