@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-09-10T10:02:36.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="bhdMwa8bLGs47dEO14TJ" version="21.6.5" type="device" pages="2">
+<mxfile host="Electron" modified="2023-09-10T10:03:18.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="SrK2NaNfVJxty91PnFJt" version="21.6.5" type="device" pages="2">
   <diagram id="TwFclFMJ9xaS21A_0iCj" name="Follow">
     <mxGraphModel dx="655" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,28 @@
         </mxCell>
         <mxCell id="0FaFJFfD3TxU9oFDaxpp-6" value="git commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=#3399FF;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-7" value="Lớp không có tiêu đề" parent="0" />
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-7" source="0FaFJFfD3TxU9oFDaxpp-9" target="0FaFJFfD3TxU9oFDaxpp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-9" value="C0" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-7">
+          <mxGeometry x="150" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-7" source="0FaFJFfD3TxU9oFDaxpp-11" target="0FaFJFfD3TxU9oFDaxpp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-11" value="README.md" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-7">
+          <mxGeometry x="245" y="345" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-12" value="&#xa;&lt;h1 dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;GitLearnMyBasic&lt;/h1&gt;&#xa;&lt;p dir=&quot;auto&quot;&gt;Học cách sử dụng Git&lt;/p&gt;&#xa;&#xa;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-7">
+          <mxGeometry x="350" y="275" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-13" value="git commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=#3399FF;fontSize=13;strokeWidth=1;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-7">
+          <mxGeometry x="40" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-7" source="0FaFJFfD3TxU9oFDaxpp-4" target="0FaFJFfD3TxU9oFDaxpp-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
