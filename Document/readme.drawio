@@ -1,9 +1,15 @@
-<mxfile host="Electron" modified="2023-09-10T10:17:03.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="7dzqqbcdW1qRVtDXgzk4" version="21.6.5" type="device" pages="2">
+<mxfile host="Electron" modified="2023-09-10T10:22:54.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="dNtvcKzAlBBYddEmxCG8" version="21.6.5" type="device" pages="2">
   <diagram id="TwFclFMJ9xaS21A_0iCj" name="Follow">
     <mxGraphModel dx="655" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" visible="0" />
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-23" value="start" style="locked=1;" visible="0" parent="0" />
+        <UserObject label="C0 là trạng thái repository ban đầu" link="data:action/json,{   &quot;actions&quot;: [     {       &quot;toggle&quot;: {         &quot;cells&quot;: [           &quot;createfilemdID&quot;         ]       }     }   ] }" id="0FaFJFfD3TxU9oFDaxpp-31">
+          <mxCell style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-23">
+            <mxGeometry x="40" y="90" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1" style="" parent="0" visible="0" />
         <mxCell id="0FaFJFfD3TxU9oFDaxpp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="0FaFJFfD3TxU9oFDaxpp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -25,33 +31,26 @@
         <mxCell id="0FaFJFfD3TxU9oFDaxpp-17" value="C1" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="524" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-23" value="start" parent="0" />
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-31" value="C0 là trạng thái repository ban đầu" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-23">
-          <mxGeometry x="40" y="90" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-35" value="creat file md" parent="0" />
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-35" source="0FaFJFfD3TxU9oFDaxpp-37" target="0FaFJFfD3TxU9oFDaxpp-39">
+        <mxCell id="createfilemdID" value="creat file md" parent="0" />
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="createfilemdID" source="0FaFJFfD3TxU9oFDaxpp-37" target="0FaFJFfD3TxU9oFDaxpp-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-37" value="C0" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-35">
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-37" value="C0" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="createfilemdID">
           <mxGeometry x="150" y="140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-35" source="0FaFJFfD3TxU9oFDaxpp-39" target="0FaFJFfD3TxU9oFDaxpp-40">
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="createfilemdID" source="0FaFJFfD3TxU9oFDaxpp-39" target="0FaFJFfD3TxU9oFDaxpp-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-39" value="README.md" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-35">
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-39" value="README.md" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="createfilemdID">
           <mxGeometry x="245" y="135" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-40" value="&#xa;&lt;h1 dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;GitLearnMyBasic&lt;/h1&gt;&#xa;&lt;p dir=&quot;auto&quot;&gt;Học cách sử dụng Git&lt;/p&gt;&#xa;&#xa;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-35">
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-40" value="&#xa;&lt;h1 dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;GitLearnMyBasic&lt;/h1&gt;&#xa;&lt;p dir=&quot;auto&quot;&gt;Học cách sử dụng Git&lt;/p&gt;&#xa;&#xa;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="createfilemdID">
           <mxGeometry x="350" y="65" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-41" value="C0 là trạng thái repository ban đầu" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-35">
-          <mxGeometry x="40" y="90" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-42" value="Thay đổi nội dung file README.md" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-35">
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-42" value="Thay đổi nội dung file README.md" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="createfilemdID">
           <mxGeometry x="40" y="290" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-7" value="git commit" parent="0" />
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-7" value="git commit" style="locked=1;" visible="0" parent="0" />
         <mxCell id="0FaFJFfD3TxU9oFDaxpp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-7" source="0FaFJFfD3TxU9oFDaxpp-9" target="0FaFJFfD3TxU9oFDaxpp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -82,7 +81,7 @@
         <mxCell id="0FaFJFfD3TxU9oFDaxpp-29" value="git commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=#3399FF;fontSize=13;strokeWidth=1;" vertex="1" parent="0FaFJFfD3TxU9oFDaxpp-7">
           <mxGeometry x="40" y="420" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0FaFJFfD3TxU9oFDaxpp-43" value="git status first commit" parent="0" />
+        <mxCell id="0FaFJFfD3TxU9oFDaxpp-43" value="git status first commit" visible="0" parent="0" />
         <mxCell id="0FaFJFfD3TxU9oFDaxpp-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0FaFJFfD3TxU9oFDaxpp-43" source="0FaFJFfD3TxU9oFDaxpp-52" target="0FaFJFfD3TxU9oFDaxpp-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
